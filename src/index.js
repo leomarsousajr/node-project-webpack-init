@@ -1,3 +1,3 @@
 import Main from "./classes/main";
-
-Main.init()
+const main = new Main()
+main.init()
